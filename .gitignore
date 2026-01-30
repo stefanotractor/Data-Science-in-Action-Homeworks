@@ -1,0 +1,21 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+# macOS
+.DS_Store
+
+# Data files
+data_raw/
+data_clean/
+*.csv
+*.json
